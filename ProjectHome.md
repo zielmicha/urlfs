@@ -1,0 +1,1 @@
+Python library to access and create filesystems using URL. Will provides access to HTTP, FTP, local files, HTTP, FTP servers and FUSE filesystem.
